@@ -177,15 +177,22 @@ ul li a:hover{
 }
 
 .footer-name {
-    border-bottom: 2px solid black;
-    padding-bottom: 2.5em;
+    padding-bottom: 5em;
+    padding-left: 2em;
+    color: white;
+    font-size:2em;
 }
 
+/*
 .logo-footer {
-    padding-bottom:
+    padding-bottom: 6em;
+}
+*/
+
+.footer-socials img{
+    width: 9%; 
+    height: 8%;
+    
 }
 
-.footer-socials {
-    padding:
-}
 
